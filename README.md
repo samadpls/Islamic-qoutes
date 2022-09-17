@@ -1,3 +1,3 @@
 # samad-testing
-<img src="https://samadpls-message-app.herokuapp.com/" alt="testing" height=250>
+<img src="https://islamic-qoutes.herokuapp.com/" alt="testing" height=250>
  
