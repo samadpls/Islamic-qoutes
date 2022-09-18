@@ -2,11 +2,13 @@
 
 # Random Islamic Qoutes 🕊
 An Islamic Quotes web app that displays different Islamic Quotes at random whenever refreshed.
-Anyone can use it in their README.md file or on their website/ Github by the following HTML tag.
-```
-<img src='https://islamic-qoutes.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'>
+Anyone can use it in their README.md file or on their website/ Github by the following HTML tag.<br>
 
 ```
+<img align='right' src='https://islamic-qoutes.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'>
+
+```
+`You can also change alignment and  height according to your need.`
 ## Demo
 
 <img src='https://islamic-qoutes.herokuapp.com/' height=300s>
