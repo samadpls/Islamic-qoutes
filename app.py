@@ -14,8 +14,8 @@ def set_response_headers(response):
 @app.route("/", methods=["GET"])
 def index():
     import os, random
-    path=random.choice(os.listdir("static/images"))    
-    sel_img = Image.open(f"static/images/{path}")
+    path=random.choice(os.listdir("/static/images"))    
+    sel_img = Image.open(f"/static/images/{path}")
     img_io = BytesIO()
     sel_img.save(img_io, 'PNG', quality=70)
     img_io.seek(0)
