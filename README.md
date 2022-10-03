@@ -4,19 +4,8 @@
 An Islamic Quotes web app that displays different Islamic Quotes at random whenever refreshed.
 Anyone can use it in their README.md file or on their website/ Github by the following HTML tag.<br>
 
-## Use it as header
-```
- <a href='https://github.com/samadpls/Islamic-qoutes'>
-<img align='right' src='https://islamic-qoutes-header.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'></a>
-
-```
-
-## Demo
-
-<img src='https://islamic-qoutes-header.herokuapp.com/' width=100%><br>
-
 ## Use it as Post
-```
+```html
  <a href='https://github.com/samadpls/Islamic-qoutes'>
 <img align='right' src='https://islamic-qoutes.herokuapp.com/' widht=100 height=300 alt='samadpls/islamic-qoutes'></a>
 
@@ -25,6 +14,17 @@ Anyone can use it in their README.md file or on their website/ Github by the fol
 ## Demo
 
 <img src='https://islamic-qoutes.herokuapp.com/' height=300s><br>
+
+## Use it as header
+```html
+ <a href='https://github.com/samadpls/Islamic-qoutes'>
+<img align='right' src='https://islamic-qoutes-header.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'></a>
+
+```
+
+## Demo
+
+<img src='https://islamic-qoutes-header.herokuapp.com/' width=100%><br>
 
 ## FAQ
 ### Purpose?
