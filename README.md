@@ -13,7 +13,7 @@ Anyone can use it in their README.md file or on their website/ Github by the fol
 `You can also change alignment and  height according to your need.`
 ## Demo
 
-<img src='https://islamic-qoutes.herokuapp.com/' height=300s><br>
+<img src='https://islamic-qoutes.herokuapp.com/' height=300><br>
 
 ## Use it as header
 ```html
