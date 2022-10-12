@@ -1,4 +1,3 @@
-from distutils.log import debug
 from flask import Flask, send_file
 from PIL import Image 
 from io import BytesIO
