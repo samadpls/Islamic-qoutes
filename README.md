@@ -6,8 +6,8 @@ Anyone can use it in their README.md file or on their website/ Github by the fol
 
 ## Use it as Post
 ```html
- <a href='https://github.com/samadpls/Islamic-qoutes'>
-<img align='right' src='https://islamic-qoutes.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'></a>
+
+ <a href='https://github.com/samadpls/Islamic-qoutes'><img align='right' src='https://islamic-qoutes.herokuapp.com/' height=300 alt='samadpls/islamic-qoutes'></a>
 
 ```
 `You can also change alignment and  height according to your need.`
