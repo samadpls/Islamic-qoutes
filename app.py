@@ -11,8 +11,8 @@ def set_response_headers(response):
 @app.route("/", methods=["GET"])
 def index():
     import os, random
-    path=random.choice(os.listdir("static/images"))    
-    return send_file(f"static/images/{path}", mimetype='image/PNG')
+    path=random.choice(os.listdir("static/header/images"))    
+    return send_file(f"static/header/images/{path}", mimetype='image/PNG')
 
 
 if __name__ == '__main__':
