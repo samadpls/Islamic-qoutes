@@ -15,21 +15,7 @@ Anyone can use it in their README.md file or on their website/ Github by the fol
 
 <img src='https://islamic-qoutes.cyclic.app/' height=300><br>
 
-## Use it as header
-```html
- <a href='https://github.com/samadpls/Islamic-qoutes'>
-<img align='right' src='https://islamic-qoutes.cyclic.app/' width=100% alt='samadpls/islamic-qoutes'></a>
 
-```
 
-## Demo
 
-<img src='https://islamic-qoutes-header.herokuapp.com/' width=100%><br>
-
-## FAQ
-### Purpose?
-- I decided to contribute by portraying the positive image of Islam by displaying the Quranic Ayats (Holy Book of Islam). I hope you guys will love it.
-## What is Islam?
-
-- The word **“Islam”** means “submission to the will of God.” Followers of Islam are called Muslims. Muslims are monotheistic and worship one, all-knowing God, who in Arabic is known as Allah. Followers of Islam aim to live a life of complete submission to Allah.
 
