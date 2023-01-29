@@ -13,7 +13,7 @@ Anyone can use it in their README.md file or on their website/ Github by the fol
 `You can also change alignment and  height according to your need.`
 ## Demo
 
-<img src='https://islamic-qoutes.cyclic.app/' height=300><br>
+<img src='https://islamic-qoutes.cyclic.app' height=300><br>
 
 
 
