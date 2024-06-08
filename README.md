@@ -1,4 +1,4 @@
-
+> Note: Due to high traffic, the free version is no longer available. To continue running this project, a monthly subscription of $1 is required
 
 # Random Islamic Qoutes 🕊
 An Islamic Quotes web app that displays different Islamic Quotes at random whenever refreshed.
